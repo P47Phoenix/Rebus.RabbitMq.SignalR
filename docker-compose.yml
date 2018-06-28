@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  site.signalr.example:
+    image: ${DOCKER_REGISTRY}sitesignalrexample
+    build:
+      context: .
+      dockerfile: Site.SignalR.Example/Dockerfile

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  site.signalr.example:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
