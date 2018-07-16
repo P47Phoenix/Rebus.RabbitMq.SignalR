@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
-    <ProjectGuid>9b772a8d-9f10-433c-822a-f321966640a4</ProjectGuid>
+    <ProjectGuid>61c4e883-3f4a-480d-b687-1d1ed38ea84e</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}</DockerServiceUrl>
     <DockerServiceName>site.signalr.example</DockerServiceName>
